@@ -18,6 +18,9 @@ Click on Continue to create rule
 
 On schedule patterns select - A schedule that runs at regular rate, such as every 10 minutes.
 Set the rule to run every 3 minutes and selct next
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch02.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Target type select AWS Service 
 Select a target type - Lambda function
 Click on additional settings - Configuration target input - Constant (JASON text)
