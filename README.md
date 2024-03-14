@@ -13,6 +13,7 @@ On the rules page, select Create Rule.
 Now, the define details rules page opens and we define the rule name - NewsSentimentReader
 On the rule type select - Schedule 
 Click on Continue to create rule 
+
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch01.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 On schedule patterns select - A schedule that runs at regular rate, such as every 10 minutes.
