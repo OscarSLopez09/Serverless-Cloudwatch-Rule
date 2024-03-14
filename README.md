@@ -14,7 +14,7 @@ Let's start by going to the AWS console and typing CloudWatch. On the left pane 
 
 * On the rule type select - Schedule 
 
-* Click on Continue to create rule 
+* Click on - Continue to create rule 
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch01.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
