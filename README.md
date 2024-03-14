@@ -54,8 +54,8 @@ Select a log stream and check that the rule is being trigger every 3 minutes
 
 Rule being trigger every 3 minutes
 
-<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="80%" width="90%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="80%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="80%" width="100%" alt="Disk Sanitization Steps"/>
 
 
 
