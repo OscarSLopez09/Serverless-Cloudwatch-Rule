@@ -25,6 +25,7 @@ Let's start by going to the AWS console and typing CloudWatch. On the left pane 
 
 * Target type - select AWS Service 
 * Select a target type - Lambda function
+* On Function, select the Lambda function - NewsReaderAPI
 * Click on next
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch03.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
