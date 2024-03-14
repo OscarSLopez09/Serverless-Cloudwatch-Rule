@@ -23,7 +23,7 @@ Let's start by going to the AWS console and typing CloudWatch. On the left pane 
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch02.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-* Target type select AWS Service 
+* Target type - select AWS Service 
 * Select a target type - Lambda function
 * Click on next
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch03.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
