@@ -51,8 +51,11 @@ go to monitoring and View cloudwatch logs
 Select a log stream and check that the rule is being trigger every 3 minutes
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch09.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Rule being trigger every 3 minutes
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 
 
 
