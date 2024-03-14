@@ -29,7 +29,8 @@ Let's start by going to the AWS console and typing CloudWatch. On the left pane 
 * Click on next
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch03.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-* Click on additional settings - Configuration target input - Constant (JASON text)
+* Click on additional settings
+* Configuration target input - Constant (JASON text)
 * Specify the constant in JSON - {"action":"insert news"}
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch04.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
