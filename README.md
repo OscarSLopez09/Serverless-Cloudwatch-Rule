@@ -23,15 +23,36 @@ Set the rule to run every 3 minutes and selct next
 
 Target type select AWS Service 
 Select a target type - Lambda function
+Click on next
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch03.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Click on additional settings - Configuration target input - Constant (JASON text)
 Specify the constant in JSON - {"action":"insert news"}
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch04.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Scroll down and click on next
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch05.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 On Review and create scrolld down and click on create
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch06.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Now we wait for a couple of minutes for the rules to start triggering the lambda function
-Go back to AWS lambda console and click on NewsReaderAPI go to monitoring and View cloudwatch logs
-Select a log stream and check that the rule is being trigger every 3 minutes
+Go back to AWS lambda console and click on NewsReaderAPI
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+go to monitoring and View cloudwatch logs
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch08.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Select a log stream and check that the rule is being trigger every 3 minutes
+
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch09.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
