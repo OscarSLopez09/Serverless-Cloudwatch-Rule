@@ -46,8 +46,6 @@ Let's start by going to the AWS console and typing CloudWatch. On the left pane 
 Now we wait for a couple of minutes for the rules to start triggering the lambda function
 * Go back to AWS lambda console and click on NewsReaderAPI
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 * Go to monitoring and View cloudwatch logs
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch08.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
