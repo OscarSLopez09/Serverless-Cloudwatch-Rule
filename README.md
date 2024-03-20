@@ -2,6 +2,15 @@
 A rule can run in response to an event or at certain time intervals. For example, to periodically run an AWS Lambda function, you can create a rule to run on a schedule.
 Using Cloudwatch events, I will configure a rule to trigger a lambda function every three minutes.
 
+This is part 5 of the project, link to the other sections:
+
+- [Part 1 Lambda Serverless App ](https://github.com/OscarSLopez09/Lambda-Serverless-App)
+- [Part 2 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
+- [Part 3 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
+- [Part 4 Creating API Gateway ](https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW)
+- [Part 6 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
+
+
 Let's start by going to the AWS console and typing CloudWatch. On the left pane of the CloudWatch dashboard, go to events and click on rules.
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -60,6 +69,11 @@ Now we wait for a couple of minutes for the rules to start triggering the lambda
 
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch010.PNG" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule/blob/main/Images/cloudwatch011.PNG" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+Continuing the project in part 6, link below:
+
+- [Part 6 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
+
 
 
 
